@@ -1,10 +1,10 @@
-Flask  # Web framework for building the application
-python-dotenv  # Loads environment variables from a .env file
-FAISS-cpu  # Library for efficient similarity search
-requests  # Library for making HTTP requests
-PyPDF2  # Library for reading and extracting text from PDF files
-langchain  # Library for building text-based AI pipelines
-langchain-community
-langchain-google-genai  # Adapter for using Google generative AI models with Langchain
-google-api-python-client  # Client library for accessing Google APIs
-google-generativeai  # Library for interacting with Google's generative AI models
+Flask==2.3.4
+python-dotenv==0.22.0
+faiss-cpu==1.12.1
+requests==2.29.4
+PyPDF2==2.15.1
+langchain==0.15.14
+langchain-community==0.1.54
+langchain-google-genai==0.15.19
+google-api-python-client==2.49.0
+google-generativeai==0.14.1
