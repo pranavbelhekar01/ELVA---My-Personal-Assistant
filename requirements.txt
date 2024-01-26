@@ -1,5 +1,5 @@
 Flask  # Web framework for building the application
-dotenv  # Loads environment variables from a .env file
+# dotenv  # Loads environment variables from a .env file
 FAISS-cpu  # Library for efficient similarity search
 requests  # Library for making HTTP requests
 PyPDF2  # Library for reading and extracting text from PDF files
