@@ -1,4 +1,4 @@
-Flask==2.2.2  # Web framework for building the application
+Flask  # Web framework for building the application
 dotenv  # Loads environment variables from a .env file
 google-api-python-client  # Client library for accessing Google APIs
 google-generativeai  # Library for interacting with Google's generative AI models
