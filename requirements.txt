@@ -1,13 +1,13 @@
-Flask==2.3.4
-python-dotenv==0.22.0
-faiss-cpu==1.12.1
-requests==2.29.4
-PyPDF2==2.15.1
-langchain==0.15.14
-langchain-community==0.1.54
-langchain-google-genai==0.15.19
-google-api-python-client==2.49.0
-google-generativeai==0.14.1
+Flask
+python-dotenv
+faiss-cpu
+requests
+PyPDF2
+langchain
+langchain-community
+langchain-google-genai
+google-api-python-client
+google-generativeai
 arxiv
 # gunicorn
 fastapi
