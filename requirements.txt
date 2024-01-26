@@ -1,5 +1,5 @@
-Flask==2.3.4
-python-dotenv==0.22.0
+# Flask==2.3.4
+# python-dotenv==0.22.0
 faiss-cpu==1.12.1
 requests==2.29.4
 PyPDF2==2.15.1
