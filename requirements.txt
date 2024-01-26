@@ -5,10 +5,8 @@ requests
 PyPDF2
 langchain
 langchain-community
-# langchain-google-genai
 google-api-python-client
 google-generativeai
 arxiv
-# gunicorn
 fastapi
 uvicorn
