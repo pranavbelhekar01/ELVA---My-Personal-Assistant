@@ -9,4 +9,6 @@ langchain-google-genai==0.15.19
 google-api-python-client==2.49.0
 google-generativeai==0.14.1
 arxiv
-gunicorn
+# gunicorn
+fastapi
+uvicorn
