@@ -1,10 +1,10 @@
 Flask  # Web framework for building the application
 dotenv  # Loads environment variables from a .env file
-google-api-python-client  # Client library for accessing Google APIs
-google-generativeai  # Library for interacting with Google's generative AI models
+FAISS-cpu  # Library for efficient similarity search
+requests  # Library for making HTTP requests
 PyPDF2  # Library for reading and extracting text from PDF files
 langchain  # Library for building text-based AI pipelines
 langchain-community
 langchain-google-genai  # Adapter for using Google generative AI models with Langchain
-FAISS-cpu  # Library for efficient similarity search
-requests  # Library for making HTTP requests
+google-api-python-client  # Client library for accessing Google APIs
+google-generativeai  # Library for interacting with Google's generative AI models
