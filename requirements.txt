@@ -4,6 +4,7 @@ faiss-cpu
 requests
 PyPDF2
 langchain
+langchain-google-genai
 langchain-community
 google-api-python-client
 google-generativeai
