@@ -106,7 +106,11 @@ def get_relevant_document(query):
     docs = retriever.get_relevant_documents(query=query, max_docs=3)
 
     if not docs:
-        return None
+        return {
+            'Title': 'No paper found on this topic',
+            'Link': 'No link',
+            'Content': 'No summary available...'
+        }
 
     contents = [doc.page_content for doc in docs]
     vectorizer = TfidfVectorizer()
@@ -195,7 +199,10 @@ def user_input(user_question):
         "qa_chain_response": response_from_chain["output_text"],
         "google_search_response": google_search_response,
         "youtube_response": youtube_response,
-        "paper_summary": arxiv_response  # Include the Arxiv response in the result
+        "arxiv_response_title": arxiv_response.get("Title"),
+        "arxiv_response_link": arxiv_response.get("Link"),
+        "arxiv_response_content": arxiv_response.get("Content")
+        # "paper_summary": arxiv_response  # Include the Arxiv response in the result
     }
 
 @app.post('/ask')
