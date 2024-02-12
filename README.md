@@ -25,7 +25,7 @@
 * **Let's get started:** Dive into the INSTALL.md file for your very own ELVA experience.
 * **Open the book of knowledge:** Explore the LICENSE file to understand how ELVA shares her magic.
 
-**✨ Connect with the magic ✨**
+**✨ Useful Links ✨**
 
 * Demo Video: [Video](https://drive.google.com/file/d/1Drz0RGL7-t8-DVshGh7liNPl5e1iv0VJ/view?usp=sharing)
 * Contact: pranavbelhekar2002@gmail.com
