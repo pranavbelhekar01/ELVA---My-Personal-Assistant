@@ -30,4 +30,3 @@
 * Demo Video: [Video](https://drive.google.com/file/d/1Drz0RGL7-t8-DVshGh7liNPl5e1iv0VJ/view?usp=sharing)
 * Contact: pranavbelhekar2002@gmail.com
 
-**Remember, this is just a starting point. Feel free to personalize the readme with your unique flair and voice, and add images, GIFs, or even an emoji-filled welcome message to truly capture the essence of ELVA's charm. Good luck!**
