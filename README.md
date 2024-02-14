@@ -10,6 +10,7 @@
 * **Stay ahead of the curve:** Curated feeds deliver the latest AI news and research, keeping you at the forefront of knowledge.
 * **It's all about you:** Personalized learning experiences cater to your interests, fueling your thirst for discovery.
 
+
 **✨ Built with the finest ingredients ✨**
 
 * **Python:** The powerful language of AI powers ELVA's intelligence.
