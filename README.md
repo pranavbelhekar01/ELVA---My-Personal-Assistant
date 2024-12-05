@@ -2,6 +2,7 @@
 
 ### [Demo Video](https://drive.google.com/file/d/1Drz0RGL7-t8-DVshGh7liNPl5e1iv0VJ/view?usp=sharing)
 
+
 **Imagine a world where information flows effortlessly to your fingertips, curated by an AI assistant who understands your curiosity.** ELVA isn't just a search engine; she's your genie, conjuring answers from diverse sources and presenting them in a way that ignites your understanding.
 
 **✨ Unleash the Magic of ELVA ✨**
